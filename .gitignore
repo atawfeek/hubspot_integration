@@ -5,6 +5,7 @@
 *.o
 *.ko
 *.obj
+*.vs
 *.elf
 
 # Linker output
@@ -50,3 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+bin
+obj
+.vs
