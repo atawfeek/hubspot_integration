@@ -1,0 +1,15 @@
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.csproj.AssemblyReference.cache
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.GeneratedMSBuildEditorConfig.editorconfig
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.AssemblyInfoInputs.cache
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.AssemblyInfo.cs
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.csproj.CoreCompileInputs.cache
+T:\Private\Projects\blinkapp\hubspot-integration\bin\Debug\net6.0\hubspot-integration.exe
+T:\Private\Projects\blinkapp\hubspot-integration\bin\Debug\net6.0\hubspot-integration.deps.json
+T:\Private\Projects\blinkapp\hubspot-integration\bin\Debug\net6.0\hubspot-integration.runtimeconfig.json
+T:\Private\Projects\blinkapp\hubspot-integration\bin\Debug\net6.0\hubspot-integration.dll
+T:\Private\Projects\blinkapp\hubspot-integration\bin\Debug\net6.0\hubspot-integration.pdb
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.dll
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\refint\hubspot-integration.dll
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.pdb
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\hubspot-integration.genruntimeconfig.cache
+T:\Private\Projects\blinkapp\hubspot-integration\obj\Debug\net6.0\ref\hubspot-integration.dll
