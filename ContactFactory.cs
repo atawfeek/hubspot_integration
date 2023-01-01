@@ -17,7 +17,7 @@ namespace hubspot_integration
                     new Property
                     {
                         property = "email",
-                        value = $"{phone}@blinkapp.net"
+                        value = $"{phone}@gig.com.eg"
                     },
                     new Property
                     {
